@@ -285,6 +285,21 @@ nav ul li {
   cursor: pointer;
 }
 
+/* Social icons */
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 50%;
+}
+
+.socicon {
+  width: 3rem;
+  height: 3rem;
+}
+
+
 
 
 
